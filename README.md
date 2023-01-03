@@ -1,3 +1,10 @@
-Practice Repository for work FLOW! 
+# Learning Git
+Important steps for git workflow:
 
-#README
+1. Initialize repository with git init
+2. create changes to project files
+3. Check status of those files with git status
+4. Stage changes for commit
+5. Commit changes to version history
+6. Review Previous changes with git log 
+
