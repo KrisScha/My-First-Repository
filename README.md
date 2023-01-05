@@ -7,4 +7,4 @@ Important steps for git workflow:
 4. Stage changes for commit
 5. Commit changes to version history
 6. Review Previous changes with git log 
-
+7. Changing for the purpose of learning to PULL
