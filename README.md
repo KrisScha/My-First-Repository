@@ -8,4 +8,4 @@ Important steps for git workflow:
 5. Commit changes to version history
 6. Review Previous changes with git log 
 Trying to change master to main- and do a PULL
-
+Making a change without fetch to see what happens
